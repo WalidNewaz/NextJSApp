@@ -4,7 +4,7 @@
   "description": "This project contains an ExpressJS app, along with MongoDB and Redis.",
   "main": "server.js",
   "scripts": {
-    "test": "react-scripts test",
+    "test": "mocha",
     "eject": "react-scripts eject",
     "dev": "next",
     "build": "next build",
